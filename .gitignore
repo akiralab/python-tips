@@ -13,7 +13,7 @@ ipython_config.py
 .python-version
 
 # resource
-res/
+src/
 
 # node modules
 node_modules/
