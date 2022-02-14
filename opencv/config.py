@@ -1,6 +1,0 @@
-'''
-    Config
-'''
-
-WINDOW_HEIGHT = 768
-WINDOW_WIDTH  = 1280
